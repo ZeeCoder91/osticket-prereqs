@@ -123,18 +123,18 @@ Set your password</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/Ufbhfay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open IIS as an Admin
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/Ufbhfay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/GQiCl2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+In IIS go to PHP Manager. You will see an alert that says "PHP is not enabled. Register new PHP version to enable PHP via FastCGI". Click on Register new PHP version.
+Search files and go to C: > PHP > php.cgi</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/GQiCl2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
