@@ -191,12 +191,12 @@ Clicking "Browse *:80" will take us to the OsTicket Installer page</p>
 
 <p>
 Go back to IIS, sites -> Default -> osTicket
-Double-click PHP Manager
-Click “Enable or disable an extension”
-Enable: php_imap.dll
-Enable: php_intl.dll
-Enable: php_opcache.dll
-Refresh the osTicket site in your browser, observe the changes
+<br />Double-click PHP Manager
+<br />Click “Enable or disable an extension”
+<br />Enable: php_imap.dll
+<br />Enable: php_intl.dll
+<br />Enable: php_opcache.dll
+<br />Refresh the osTicket site in your browser, observe the changes
 </p>
 <p>
 <img src="https://i.imgur.com/YfEM2IX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
