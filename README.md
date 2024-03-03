@@ -265,59 +265,56 @@ Continue Setting up osTicket in the browser (click Continue)
 <br />
 
 <p>
-<img src="https://i.imgur.com/iY8r81o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
 Name the Helpdesk<br />
 Default email (receives email from customers)
 </p>
+<p>
+<img src="https://i.imgur.com/iY8r81o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
 <br />
 
+<p>
+Setup the admin user</p>
 <p>
 <img src="https://i.imgur.com/UjGKuId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
+<p>
+We will fill out this section after installing HeidiSQL</p>
 <p>
 <img src="https://i.imgur.com/CE8T33M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
+<p>
+download and install HeidiSQL.</p>
 <p>
 <img src="https://i.imgur.com/iPeq7hA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
+<p>
+Open Heidi SQL
+</p>
 <p>
 <img src="https://i.imgur.com/yxklJrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
+<p>
+Create a new session and set the root password. Finish by clicking open
+</p>
 <p>
 <img src="https://i.imgur.com/vBasAeP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/EvuDpoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create a database called “osTicket”
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/EvuDpoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
