@@ -266,44 +266,40 @@ Continue Setting up osTicket in the browser (click Continue)
 
 <p>
 Name the Helpdesk<br />
-Default email (receives email from customers)
+Default email (receives email from customers) and setup the admin user
 </p>
 <p>
 <img src="https://i.imgur.com/iY8r81o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-Setup the admin user</p>
+<p>We will fill out this section after installing HeidiSQL</p>
+</p>
 <p>
 <img src="https://i.imgur.com/UjGKuId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-We will fill out this section after installing HeidiSQL</p>
+<p>download and install HeidiSQL.</p>
 <p>
 <img src="https://i.imgur.com/CE8T33M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-download and install HeidiSQL.</p>
+<p>Open Heidi SQL
 <p>
 <img src="https://i.imgur.com/iPeq7hA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-Open Heidi SQL
+<p>Create a new session and set the root password. Finish by clicking open
 </p>
 <p>
 <img src="https://i.imgur.com/yxklJrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-Create a new session and set the root password. Finish by clicking open
+<p>Create a database called “osTicket”
 </p>
 <p>
 <img src="https://i.imgur.com/vBasAeP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -311,7 +307,6 @@ Create a new session and set the root password. Finish by clicking open
 <br />
 
 <p>
-Create a database called “osTicket”
 </p>
 <p>
 <img src="https://i.imgur.com/EvuDpoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
