@@ -307,17 +307,19 @@ Default email (receives email from customers) and setup the admin user
 <br />
 
 <p>
-</p>
-<p>
 <img src="https://i.imgur.com/EvuDpoM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/P6pcsNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Continue Setting up osticket in the browser <br />
+MySQL Database: osTicket <br />
+MySQL Username: root <br />
+MySQL Password: Password1 <br />
+Click “Install Now!”
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/P6pcsNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
