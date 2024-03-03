@@ -316,7 +316,7 @@ Continue Setting up osticket in the browser <br />
 MySQL Database: osTicket <br />
 MySQL Username: root <br />
 MySQL Password: Password1 <br />
-Click “Install Now!”
+Click “Install Now”
 </p>
 <p>
 <img src="https://i.imgur.com/P6pcsNu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -324,34 +324,34 @@ Click “Install Now!”
 <br />
 
 <p>
-<img src="https://i.imgur.com/NeOuu0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Congratulations! OsTicket has been installed<br />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/NeOuu0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
+<p>
+Clean up <br /> 
+Delete: C:\inetpub\wwwroot\osTicket\setup
+</p>
 <p>
 <img src="https://i.imgur.com/Otb5XZR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
+<p>
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</p>
 <p>
 <img src="https://i.imgur.com/ivK5wtD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/mVIqDbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/mVIqDbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
