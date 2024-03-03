@@ -196,7 +196,6 @@ Go back to IIS, sites -> Default -> osTicket
 <br />Enable: php_imap.dll
 <br />Enable: php_intl.dll
 <br />Enable: php_opcache.dll
-<br />Refresh the osTicket site in your browser, observe the changes
 </p>
 <p>
 <img src="https://i.imgur.com/YfEM2IX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -204,18 +203,20 @@ Go back to IIS, sites -> Default -> osTicket
 <br />
 
 <p>
-<img src="https://i.imgur.com/eLsB2z1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Refresh the osTicket site in your browser, observe the changes
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/eLsB2z1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/EJ9xThR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Rename: ost-config.php<br />
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php<br />
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/EJ9xThR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
