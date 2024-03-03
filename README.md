@@ -41,10 +41,10 @@ Go to World Wide Web Services -> Application Development Features -> Enable CGI 
 <br />
 
 <p>
+In the web browser type in 127.0.0.1 The below page should load if IIS was installed correctly.</p>
+<p>
 <img src="https://i.imgur.com/bn3eMwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-In the web browser type in 127.0.0.1 The below page should load if IIS was installed correctly.</p>
 <br />
 
 <p>
