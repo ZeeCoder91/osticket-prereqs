@@ -72,7 +72,7 @@ Create the directory C:\PHP
 <br />
 
 <p>
-Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)</p>
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip). Extract all</p>
 <p>
 <img src="https://i.imgur.com/vXEcmob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
