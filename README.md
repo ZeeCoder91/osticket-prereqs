@@ -72,18 +72,16 @@ Create the directory C:\PHP
 <br />
 
 <p>
-<img src="https://i.imgur.com/vXEcmob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip)</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/vXEcmob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/vVyAPL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+Unzip the contents into C:\PHP</p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/vVyAPL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
