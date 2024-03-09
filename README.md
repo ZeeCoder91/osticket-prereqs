@@ -121,30 +121,28 @@ Enter the root password.</p>
 <br />
 
 <p>
-Open IIS as an Admin
-</p>
+Launch IIS with Administrator privileges</p>
 <p>
 <img src="https://i.imgur.com/Ufbhfay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-In IIS go to PHP Manager. You will see an alert that says "PHP is not enabled. Register new PHP version to enable PHP via FastCGI". Click on Register new PHP version.
-Search files and go to C: > PHP > php.cgi</p>
+In PHP Manager, when prompted with 'PHP is not enabled. Register new PHP version to enable PHP via FastCGI,' click 'Register new PHP version.' Then, in the C:\PHP directory, select 'php.cgi.' This step is key for enabling PHP script processing through FastCGI in IIS, essential for dynamic content delivery.</p>
 <p>
 <img src="https://i.imgur.com/GQiCl2C.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Stop and Start the server</p>
+In PHP Manager, simply click to 'Stop' and then 'Start' the server. This action refreshes the server settings, applying any new configurations and ensuring PHP is properly integrated and operational within IIS.</p>
 <p>
 <img src="https://i.imgur.com/2OGb66D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Install osTicket v1.15.8. Next extract and copy “upload” folder to c:\inetpub\wwwroot
+"Install osTicket version 1.15.8, then extract the package and copy the 'upload' folder to c:\inetpub\wwwroot. This step places osTicket's necessary files in the web server's root directory, preparing it for configuration and use."
 </p>
 <p>
 <img src="https://i.imgur.com/6dhjmSn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
