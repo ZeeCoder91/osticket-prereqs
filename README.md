@@ -93,8 +93,7 @@ For ensuring compatibility and optimal performance of PHP on Windows, it is impe
 <br />
 
 <p>
-Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi). Choose a Typical Setup.
-</p>
+Download and install MySQL version 5.5.62 (mysql-5.5.62-win32.msi) to set up a reliable database management system. This specific version ensures broad application compatibility and leverages MySQL's efficient and robust performance for managing your application data. Select 'Typical' setup type.</p>
 <p>
 <img src="https://i.imgur.com/M9opU8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
