@@ -224,30 +224,28 @@ Set permissions for 'ost-config.php' by right-clicking on the file and navigatin
 <br />
 
 <p>
-Add and assign New Permissions > Everyone 
-</p>
+Assign 'New Permissions' to 'Everyone' to ensure broad access while maintaining security.</p>
 <p>
 <img src="https://i.imgur.com/wuV1SG2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Check all Basic Permissions
-</p>
+Ensure all Basic Permissions are selected</p>
 <p>
 <img src="https://i.imgur.com/pcdaUNz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Apply and ok the new permissions</p>
+"Click 'Apply' to confirm, then 'OK' to set the new permissions.</p>
 <p>
 <img src="https://i.imgur.com/u8dfePc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Continue Setting up osTicket in the browser (click Continue)
+In your browser, proceed with setting up osTicket by clicking 'Continue'.
 </p>
 <p>
 <img src="https://i.imgur.com/NgnKYro.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
