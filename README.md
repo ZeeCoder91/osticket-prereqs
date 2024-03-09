@@ -217,8 +217,7 @@ Rename the file from 'ost-sampleconfig.php' to 'ost-config.php' located at C:\in
 <br />
 
 <p>
-Assign Permissions: ost-config.php<br />
-Right Click ost-config.php > Security > Advanced > Disable inheritance > Remove All</p>
+Set permissions for 'ost-config.php' by right-clicking on the file and navigating to Security > Advanced > Disable inheritance, then select 'Remove All.' This action secures the configuration file by customizing its permission settings, ensuring that only authorized users and processes have access, which is a crucial step in protecting sensitive information within the osTicket system.</p>
 <p>
 <img src="https://i.imgur.com/77xA0ZO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
