@@ -184,7 +184,7 @@ By clicking "Browse *:80," you will be directed to the osTicket Installer page. 
 <br />
 
 <p>
-In PHP Manager, follow these steps to enable specific DLLs:
+In PHP Manager, follow these steps to enable specific DLLs (Dynamic Link Libraries):
 <br />1. Navigate to the "PHP Extensions" section.
 <br />2. Find and enable php_imap.dll, php_intl.dll, and php_opcache.dll by checking their corresponding boxes.
 <br />3. Apply the changes. 
@@ -197,17 +197,14 @@ In PHP Manager, follow these steps to enable specific DLLs:
 <br />
 
 <p>
-Refresh the osTicket site in your browser, observe the changes
-</p>
+Reload the osTicket site in your browser to observe any updates or changes that have taken effect.</p>
 <p>
 <img src="https://i.imgur.com/eLsB2z1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Rename: ost-config.php<br />
-From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php<br />
-To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Rename the file from 'ost-sampleconfig.php' to 'ost-config.php' located at C:\inetpub\wwwroot\osTicket\include. This step transitions the osTicket configuration file from a sample template to its active form, enabling further customization and setup.
 </p>
 <p>
 <img src="https://i.imgur.com/EJ9xThR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
