@@ -64,8 +64,7 @@ From the Installation Files, download and install 'rewrite_amd64_en-US.msi' to e
 <br />
 
 <p>
-Create the directory C:\PHP
-</p>
+For optimal organization and accessibility, create a directory at C:\PHP to house PHP version 7.3.8. Specifically, use the non-thread safe version for Windows (php-7.3.8-nts-Win32-VC15-x86.zip) because when configuring PHP for use with IIS, the NTS version is preferred for its compatibility with FastCGI, improved performance, and more efficient resource management. This ensures that web applications run smoothly, with optimal response times and reliability. This dedicated folder streamlines PHP management and configuration within your environment</p>
 <p>
 <img src="https://i.imgur.com/0F9SS1a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
