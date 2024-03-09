@@ -93,27 +93,27 @@ For ensuring compatibility and optimal performance of PHP on Windows, it is impe
 <br />
 
 <p>
-Download and install MySQL version 5.5.62 (mysql-5.5.62-win32.msi) to set up a reliable database management system. This specific version ensures broad application compatibility and leverages MySQL's efficient and robust performance for managing your application data. Select 'Typical' setup type.</p>
+Download and execute the installation of MySQL version 5.5.62 using the file 'mysql-5.5.62-win32.msi'. Opt for a 'Typical Setup' during installation to efficiently establish a dependable database management system, ensuring broad compatibility and strong performance.</p>
 <p>
 <img src="https://i.imgur.com/M9opU8P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Choose a Standard Configuration and Install as Windows Service</p>
+Select 'Standard Configuration' and opt to install as a Windows Service. This streamlined approach simplifies the setup process, ensuring MySQL runs automatically and reliably in the background as a service, providing stability and ease of management for your database system.</p>
 <p>
 <img src="https://i.imgur.com/N5n9W93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Set your password</p>
+Enter the root password.</p>
 <p>
 <img src="https://i.imgur.com/nEoJbvK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Finish
+<p>Complete the MySQL installation process.
 </p>
 <p>
 <img src="https://i.imgur.com/ZDXYRrn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
