@@ -50,8 +50,7 @@ To verify the successful installation of IIS, open your web browser and enter '1
 <br />
 
 <p>
-From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
-</p>
+Proceed by Locating and downloading the 'PHP Manager for IIS' installer, specifically version 1.5.0 (PHPManagerForIIS_V1.5.0.msi). This tool is instrumental for seamlessly integrating PHP into your IIS environment, enabling dynamic content generation. Once downloaded, execute the installer to integrate PHP Manager into your IIS setup, thereby preparing your system for robust web development tasks involving PHP</p>
 <p>
 <img src="https://i.imgur.com/BIBNx8G.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
