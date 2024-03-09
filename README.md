@@ -71,21 +71,21 @@ For optimal organization and accessibility, create a directory at C:\PHP to hous
 <br />
 
 <p>
-Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip). Extract all</p>
+Download the PHP 7.3.8 package (php-7.3.8-nts-Win32-VC15-x86.zip) and proceed to extract all contents.</p>
 <p>
 <img src="https://i.imgur.com/vXEcmob.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Unzip the contents into C:\PHP</p>
+Extract the contents of the downloaded file into the C:\PHP directory.</p>
 <p>
 <img src="https://i.imgur.com/vVyAPL7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Download and install VC_redist.x86.exe.
+For ensuring compatibility and optimal performance of PHP on Windows, it is imperative to download and install 'VC_redist.x86.exe'. This step involves installing the Visual C++ Redistributable for Visual Studio 2015, a package of DLL (Dynamic Link Library) files required by PHP and other applications to run smoothly. These libraries are essential runtime components supporting the execution of C++ applications built with Visual Studio 2015. Installing this package guarantees that your system is equipped with all necessary components to efficiently run PHP, thereby preventing potential issues related to missing libraries.
 </p>
 <p>
 <img src="https://i.imgur.com/CrdtBtx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
