@@ -162,7 +162,7 @@ In the c:\inetpub\wwwroot directory, rename the 'upload' folder to 'osTicket'. T
 <br />
 
 <p>
-Stop and Start the server.
+Stop and Start the server. To refresh the server settings and apply the new configurations.
 </p>
 <p>
 <img src="https://i.imgur.com/2OGb66D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -185,9 +185,9 @@ By clicking "Browse *:80," you will be directed to the osTicket Installer page. 
 
 <p>
 In PHP Manager, follow these steps to enable specific DLLs:
-<br />Navigate to the "PHP Extensions" section.
-<br />Find and enable php_imap.dll, php_intl.dll, and php_opcache.dll by checking their corresponding boxes.
-<br />Apply the changes. 
+<br />1. Navigate to the "PHP Extensions" section.
+<br />2. Find and enable php_imap.dll, php_intl.dll, and php_opcache.dll by checking their corresponding boxes.
+<br />3. Apply the changes. 
 </p>
 
 <p>This process activates the IMAP, Internationalization, and Opcode Cache extensions, enhancing PHP functionality.</p>
