@@ -121,7 +121,7 @@ Enter the root password.</p>
 <br />
 
 <p>
-Launch IIS with Administrator privileges</p>
+Launch IIS with Administrator privileges.</p>
 <p>
 <img src="https://i.imgur.com/Ufbhfay.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -155,15 +155,14 @@ In PHP Manager, simply click to 'Stop' and then 'Start' the server. This action 
 <br />
 
 <p>
-Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
-</p>
+In the c:\inetpub\wwwroot directory, rename the 'upload' folder to 'osTicket'. This adjustment organizes your installation, clearly identifying osTicket's application files within your web server's root directory.</p>
 <p>
 <img src="https://i.imgur.com/UNa9ilP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Stop and Start the server
+Stop and Start the server.
 </p>
 <p>
 <img src="https://i.imgur.com/2OGb66D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -171,15 +170,14 @@ Stop and Start the server
 <br />
 
 <p>
-Go to sites -> Default -> osTicket and then on the right, click “Browse *:80”
-</p>
+Navigate to 'Sites' -> 'Default Web Site' -> 'osTicket' in IIS. Then, on the right panel, click on 'Browse *:80'. This action initiates a browser session to access your osTicket installation via the default HTTP port, allowing you to verify the application's deployment and accessibility.</p>
 <p>
 <img src="https://i.imgur.com/SmnEbS4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
 <p>
-Clicking "Browse *:80" will take us to the OsTicket Installer page</p>
+By clicking "Browse *:80," you will be directed to the osTicket Installer page. This step effectively launches your web browser to display the setup interface for osTicket, indicating that the application is accessible and ready for installation and configuration on your server.</p>
 <p>
 <img src="https://i.imgur.com/qkOyY68.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
