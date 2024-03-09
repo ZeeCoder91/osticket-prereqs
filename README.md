@@ -57,8 +57,7 @@ Proceed by Locating and downloading the 'PHP Manager for IIS' installer, specifi
 <br />
 
 <p>
-From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
-</p>
+From the Installation Files, download and install 'rewrite_amd64_en-US.msi' to enable URL rewriting, improving website navigation and SEO.</p>
 <p>
 <img src="https://i.imgur.com/MojMcEE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
