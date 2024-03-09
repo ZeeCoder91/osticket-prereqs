@@ -231,7 +231,7 @@ Assign 'New Permissions' to 'Everyone' to ensure broad access while maintaining 
 <br />
 
 <p>
-Ensure all Basic Permissions are selected</p>
+Ensure all Basic Permissions are selected.</p>
 <p>
 <img src="https://i.imgur.com/pcdaUNz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -253,8 +253,7 @@ In your browser, proceed with setting up osTicket by clicking 'Continue'.
 <br />
 
 <p>
-Name the Helpdesk<br />
-Default email (receives email from customers) and setup the admin user
+For osTicket setup, name your Helpdesk, specify the Default email (for receiving customer emails), and create the admin user account.
 </p>
 <p>
 <img src="https://i.imgur.com/iY8r81o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
