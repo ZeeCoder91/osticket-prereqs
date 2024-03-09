@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 We will configure and activate Internet Information Services (IIS), a robust web server platform that enables a computer to host websites. Given that OsTicket operates through a web interface, it's essential to establish and fine-tune IIS settings to ensure the seamless operation of OsTicket<br/> 
  
-Initiate the process by right-clicking the Start menu, selecting 'Run', and then entering 'control' to access the Control Panel. Navigate to 'Programs' and select 'Turn Windows features on or off'. Within the list, locate 'Internet Information Services > World Wide Web Services > Application Development Features'. Here, ensure to enable 'CGI' along with all of the 'Common HTTP Features' to properly configure the server environment.
+Initiate the process by right-clicking the Start menu, selecting 'Run', and then entering 'control' to access the Control Panel. Navigate to 'Programs' and select 'Turn Windows features on or off'. Within the list, locate 'Internet Information Services > World Wide Web Services > Application Development Features'. Here, ensure to enable 'CGI' along with all of the 'Common HTTP Features' to properly configure the server environment. Select 'Ok' to initiate installation.
 </p>
 <p>
 <img src="https://i.imgur.com/OxWAXSI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -43,7 +43,7 @@ Initiate the process by right-clicking the Start menu, selecting 'Run', and then
 <br />
 
 <p>
-In the web browser type in 127.0.0.1 The below page should load if IIS was installed correctly.</p>
+To verify the successful installation of IIS, open your web browser and enter '127.0.0.1' into the address bar. This IP address is known as the 'localhost' and is used to refer to the computer you're currently using. If IIS has been installed and configured correctly, you should be greeted with the default IIS welcome page. This step is crucial as it confirms that your system is properly set up to host web applications</p>
 <p>
 <img src="https://i.imgur.com/bn3eMwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
