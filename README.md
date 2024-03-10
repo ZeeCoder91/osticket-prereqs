@@ -260,33 +260,33 @@ For osTicket setup, name your Helpdesk, specify the Default email (for receiving
 </p>
 <br />
 
-<p>We will fill out this section after installing HeidiSQL</p>
+<p>After installing HeidiSQL, proceed to fill in the database details in the osTicket installer.</p>
 </p>
 <p>
 <img src="https://i.imgur.com/UjGKuId.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>download and install HeidiSQL.</p>
+<p>"Download and install HeidiSQL. This step equips your system with a powerful database management tool, enabling efficient handling and administration of your databases, a necessary component for managing the backend of applications like osTicket.</p>
 <p>
 <img src="https://i.imgur.com/CE8T33M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Open Heidi SQL
+<p>"Launch HeidiSQL.
 <p>
 <img src="https://i.imgur.com/iPeq7hA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Create a new session and set the root password. Finish by clicking open
+<p>Create a new session and enter the root password. Conclude by clicking 'Open'.
 </p>
 <p>
 <img src="https://i.imgur.com/yxklJrv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>Create a database called “osTicket”
+<p>In HeidiSQL, create a database named 'osTicket'.
 </p>
 <p>
 <img src="https://i.imgur.com/vBasAeP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -299,7 +299,7 @@ For osTicket setup, name your Helpdesk, specify the Default email (for receiving
 <br />
 
 <p>
-Continue Setting up osticket in the browser <br />
+Proceed with the osTicket setup in your browser.<br />
 MySQL Database: osTicket <br />
 MySQL Username: root <br />
 MySQL Password: Password1 <br />
@@ -319,8 +319,7 @@ Congratulations! OsTicket has been installed<br />
 <br />
 
 <p>
-Clean up <br /> 
-Delete: C:\inetpub\wwwroot\osTicket\setup
+Complete the cleanup process by deleting the 'C:\inetpub\wwwroot\osTicket\setup' folder. This step is important to remove installation files and secure your osTicket application."
 </p>
 <p>
 <img src="https://i.imgur.com/Otb5XZR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -328,7 +327,7 @@ Delete: C:\inetpub\wwwroot\osTicket\setup
 <br />
 
 <p>
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</p>
+Adjust the permissions of 'C:\inetpub\wwwroot\osTicket\include\ost-config.php' to 'Read-only.' This measure enhances security by preventing unauthorized modifications to the configuration file.</p>
 <p>
 <img src="https://i.imgur.com/ivK5wtD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
