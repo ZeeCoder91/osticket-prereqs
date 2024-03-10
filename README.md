@@ -302,7 +302,7 @@ For osTicket setup, name your Helpdesk, specify the Default email (for receiving
 Proceed with the osTicket setup in your browser.<br />
 MySQL Database: osTicket <br />
 MySQL Username: root <br />
-MySQL Password: Password1 <br />
+MySQL Password: ******** <br />
 Click “Install Now”
 </p>
 <p>
