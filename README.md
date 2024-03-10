@@ -43,7 +43,7 @@ Initiate the process by right-clicking the Start menu, selecting 'Run', and then
 <br />
 
 <p>
-To verify the successful installation of IIS, open your web browser and enter '127.0.0.1' into the address bar. This IP address is known as the 'localhost' and is used to refer to the computer you're currently using. If IIS has been installed and configured correctly, you should be greeted with the default IIS welcome page. This step is crucial as it confirms that your system is properly set up to host web applications</p>
+To verify the successful installation of IIS, open your web browser and enter '127.0.0.1' into the address bar. This IP address is known as the 'localhost' and is used to refer to the computer you're currently using. If IIS has been installed and configured correctly, you should be greeted with the default IIS welcome page. This step is crucial as it confirms that your system is properly set up to host web applications.</p>
 <p>
 <img src="https://i.imgur.com/bn3eMwO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -64,7 +64,7 @@ From the Installation Files, download and install 'rewrite_amd64_en-US.msi' to e
 <br />
 
 <p>
-For optimal organization and accessibility, create a directory at C:\PHP to house PHP version 7.3.8. Specifically, use the non-thread safe version for Windows (php-7.3.8-nts-Win32-VC15-x86.zip) because when configuring PHP for use with IIS, the NTS version is preferred for its compatibility with FastCGI, improved performance, and more efficient resource management. This ensures that web applications run smoothly, with optimal response times and reliability. This dedicated folder streamlines PHP management and configuration within your environment</p>
+For optimal organization and accessibility, create a directory at C:\PHP to house PHP version 7.3.8. Specifically, use the non-thread safe version for Windows (php-7.3.8-nts-Win32-VC15-x86.zip) because when configuring PHP for use with IIS, the NTS version is preferred for its compatibility with FastCGI, improved performance, and more efficient resource management. This ensures that web applications run smoothly, with optimal response times and reliability. This dedicated folder streamlines PHP management and configuration within your environment.</p>
 <p>
 <img src="https://i.imgur.com/0F9SS1a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -311,7 +311,7 @@ Click “Install Now”
 <br />
 
 <p>
-Congratulations! OsTicket has been installed<br />
+Congratulations! OsTicket has been installed.<br />
 </p>
 <p>
 <img src="https://i.imgur.com/NeOuu0Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
