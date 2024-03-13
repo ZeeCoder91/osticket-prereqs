@@ -334,7 +334,7 @@ Adjust the permissions of 'C:\inetpub\wwwroot\osTicket\include\ost-config.php' t
 <br />
 
 <p>
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+Final Step: Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 </p>
 <p>
 <img src="https://i.imgur.com/mVIqDbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
