@@ -340,10 +340,3 @@ Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 <img src="https://i.imgur.com/mVIqDbk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
-<p>
-<img src="https://i.imgur.com/UDawVdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
-
